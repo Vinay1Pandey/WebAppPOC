@@ -1,0 +1,14 @@
+D:\Vinay\BSNL\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\Vinay\BSNL\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\Vinay\BSNL\BusinessLogic\bin\Debug\BSNLEntity.dll
+D:\Vinay\BSNL\BusinessLogic\bin\Debug\BSNLEntity.pdb
+D:\Vinay\BSNL\BusinessLogic\bin\Debug\BSNLEntity.dll.config
+D:\Vinay\BSNL\BusinessLogic\bin\Debug\EntityFramework.xml
+D:\Vinay\BSNL\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+D:\Vinay\BSNL\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Vinay\BSNL\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\Vinay\BSNL\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\Vinay\BSNL\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\Vinay\BSNL\BusinessLogic\bin\Debug\MessageTemplate.dll
+D:\Vinay\BSNL\BusinessLogic\bin\Debug\MessageTemplate.pdb
+D:\Vinay\BSNL\BusinessLogic\bin\Debug\MessageTemplate.dll.config
