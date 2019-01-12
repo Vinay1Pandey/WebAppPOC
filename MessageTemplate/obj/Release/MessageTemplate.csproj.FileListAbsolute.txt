@@ -1,0 +1,17 @@
+C:\Users\GIC\Downloads\Shopping\Shopping\CapacityPlanning\Project\MessageTemplate\bin\Release\MessageTemplate.dll.config
+C:\Users\GIC\Downloads\Shopping\Shopping\CapacityPlanning\Project\MessageTemplate\bin\Release\MessageTemplate.dll
+C:\Users\GIC\Downloads\Shopping\Shopping\CapacityPlanning\Project\MessageTemplate\bin\Release\MessageTemplate.pdb
+C:\Users\GIC\Downloads\Shopping\Shopping\CapacityPlanning\Project\MessageTemplate\bin\Release\businessLogic.dll
+C:\Users\GIC\Downloads\Shopping\Shopping\CapacityPlanning\Project\MessageTemplate\bin\Release\Entity.dll
+C:\Users\GIC\Downloads\Shopping\Shopping\CapacityPlanning\Project\MessageTemplate\bin\Release\EntityFramework.dll
+C:\Users\GIC\Downloads\Shopping\Shopping\CapacityPlanning\Project\MessageTemplate\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\GIC\Downloads\Shopping\Shopping\CapacityPlanning\Project\MessageTemplate\bin\Release\businessLogic.pdb
+C:\Users\GIC\Downloads\Shopping\Shopping\CapacityPlanning\Project\MessageTemplate\bin\Release\Entity.pdb
+C:\Users\GIC\Downloads\Shopping\Shopping\CapacityPlanning\Project\MessageTemplate\bin\Release\Entity.dll.config
+C:\Users\GIC\Downloads\Shopping\Shopping\CapacityPlanning\Project\MessageTemplate\bin\Release\EntityFramework.xml
+C:\Users\GIC\Downloads\Shopping\Shopping\CapacityPlanning\Project\MessageTemplate\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\GIC\Downloads\Shopping\Shopping\CapacityPlanning\Project\MessageTemplate\obj\Release\MessageTemplate.csprojAssemblyReference.cache
+C:\Users\GIC\Downloads\Shopping\Shopping\CapacityPlanning\Project\MessageTemplate\obj\Release\MessageTemplate.csproj.CoreCompileInputs.cache
+C:\Users\GIC\Downloads\Shopping\Shopping\CapacityPlanning\Project\MessageTemplate\obj\Release\MessageTemplate.csproj.CopyComplete
+C:\Users\GIC\Downloads\Shopping\Shopping\CapacityPlanning\Project\MessageTemplate\obj\Release\MessageTemplate.dll
+C:\Users\GIC\Downloads\Shopping\Shopping\CapacityPlanning\Project\MessageTemplate\obj\Release\MessageTemplate.pdb
